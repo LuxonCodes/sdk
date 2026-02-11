@@ -1,0 +1,14 @@
+{
+  "name": "luxon",
+  "version": "0.1.0",
+  "description": "Luxon rover exploring unknown digital terrain.",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
